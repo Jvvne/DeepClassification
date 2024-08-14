@@ -71,7 +71,7 @@ Several optimization techniques were explored, including:
 ## Results
 
 The results of each model, including accuracy and loss metrics, are compared to determine the best-performing model. Details can be found in the respective Jupyter notebooks.
-.
+..
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
