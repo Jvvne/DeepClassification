@@ -16,7 +16,7 @@ Alphabet Soup is a venture capital firm that receives many funding applications 
 - [Model Optimization](#model-optimization)
 - [Results](#results)
 - [License](#license)
-
+.
 ## Dataset
 
 The dataset used in this project contains information about over 34,000 organizations that have received funding from Alphabet Soup. Each row represents a startup, and the columns include various features such as funding amount, industry sector, and whether the startup was ultimately successful.
