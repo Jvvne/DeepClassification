@@ -1,6 +1,6 @@
 # Alphabet Soup Venture Funding Prediction
 ![image](https://github.com/user-attachments/assets/a67e8ca5-6122-42ad-bf9e-0c079014b1dc)
-.
+...
 This repository contains the code and resources for building and optimizing a binary classification deep neural network model to predict whether startups funded by Alphabet Soup will be successful. The project involves data preprocessing, model compilation, evaluation, and optimization using TensorFlow and Keras.
 
 ## Project Overview
